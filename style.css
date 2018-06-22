@@ -9,7 +9,7 @@ p 	{
 	text-align: center;
 	padding: 20px;
 	display: flex;
-    flex-wrap: wrap;
+        flex-wrap: wrap;
 	justify-content: center;
 	text-shadow: 1px 1px black;
   	background: rgba(0, 0, 0, 0.3);
@@ -23,8 +23,8 @@ p 	{
 .btn2	{
 	background-color: black;
 	padding: 7px 20px;
-	display: flex;
-	justify-content: center;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
 	margin-top: 45px;
 }
 
