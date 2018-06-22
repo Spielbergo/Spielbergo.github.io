@@ -1,0 +1,36 @@
+body	{
+	background-image: url(images/westside.jpg);
+	background-size: cover;	
+}
+
+p 	{
+	color: white;
+	font-weight: 600;
+	margin: 35px 400px 0 400px;
+	text-align: center;
+	padding: 20px;
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+	text-shadow: 1px 1px black;
+  	background: rgba(0, 0, 0, 0.3);
+}
+
+.logo	{
+	margin-top: 40px;
+	display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+}
+
+
+.btn2	{
+	background-color: black;
+	padding: 7px 20px;
+	display: flex;
+	justify-content: center;
+	margin-top: 55px;
+}
+
+
+
