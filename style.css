@@ -23,6 +23,7 @@ p 	{
 .btn2	{
 	background-color: black;
 	padding: 7px 20px;
+	display: block;
 	margin-left: 0 auto;
 	margin-right: 0 auto;
 	margin-top: 45px;
