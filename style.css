@@ -1,8 +1,7 @@
 body	{
-	background-image: url(images/westside.jpg);
+	background-image: url(Images/westside.jpg);
 	background-size: cover;	
 }
-
 p 	{
 	color: white;
 	font-weight: 600;
@@ -15,15 +14,12 @@ p 	{
 	text-shadow: 1px 1px black;
   	background: rgba(0, 0, 0, 0.3);
 }
-
 .logo	{
 	margin-top: 40px;
 	display: flex;
         flex-wrap: wrap;
         justify-content: center;
 }
-
-
 .btn2	{
 	background-color: black;
 	padding: 7px 20px;
