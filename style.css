@@ -1,5 +1,5 @@
 body	{
-	background-image: url(https://spielbergo.github.io/Images/westside.jpg);
+	background-image: url("https://spielbergo.github.io/Images/westside.jpg");
 	background-size: cover;	
 }
 p 	{
